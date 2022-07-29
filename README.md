@@ -24,7 +24,7 @@ Cấu trúc thư mục source code:
 # Hướng dẫn run code
 ```
 1. Chạy CryptoApplication.class để start ứng dụng
-2. Chạy hàm run để lấy request mã hóa: 
+2. Chạy hàm run trong DemoController để lấy request mã hóa: 
 {
     "encryptedData": "iOtC3LGOrhfcub4Dw9D8L5k5t0J+sNGahaF+BM8PLfCPrgKFUxZh/+7JTWlbAUz8ley91CjY+zvDHjiUau345ztp1TLerwmZdgqE9FGFAo+P5fHsMJgkfA==",
     "mac": "FChDI49xT99299t+M+MXKDaJi/Afy5M8EITHXQe1NcMa9yFpKe96/Ya2ql5hL6YRH2I/OS4cbWEeOnFo1Ss3kA=="
