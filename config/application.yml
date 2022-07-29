@@ -1,0 +1,7 @@
+server:
+  port: 9999
+
+key:
+  aes: UkXp2s5v8x/A?D(G+KbPeShVmYq3t6w9
+  hmac: E(H+KbPeShVmYq3t6w9z$C&F)J@NcQfTjWnZr4u7x!A%D*G-KaPdSgUkXp2s5v8y
+
